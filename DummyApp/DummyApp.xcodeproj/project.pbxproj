@@ -98,6 +98,8 @@
 		E774A0CD2D4B5C73004569C5 /* MockUserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockUserService.swift; sourceTree = "<group>"; };
 		E774A0D02D4B5D0C004569C5 /* APIClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClientTests.swift; sourceTree = "<group>"; };
 		E774A0D22D4B5DF4004569C5 /* MockNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkManager.swift; sourceTree = "<group>"; };
+		E78BDDDD2D59D722001EB945 /* user_list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user_list.png; sourceTree = "<group>"; };
+		E78BDDDE2D59D72F001EB945 /* user_detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user_detail.png; sourceTree = "<group>"; };
 		E7A774072D51D52D009BC075 /* Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
 		E7A774092D51DA04009BC075 /* UserListViewModeling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListViewModeling.swift; sourceTree = "<group>"; };
 		E7A7740B2D51DE7C009BC075 /* APIEndpoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndpoints.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 		E73D7FAD2D44D24F0006471B = {
 			isa = PBXGroup;
 			children = (
+				E78BDDDB2D59D714001EB945 /* Screenshots */,
 				E774A0B82D4928A6004569C5 /* README.md */,
 				E73D7FD22D44D47A0006471B /* DummyApp.swift */,
 				E73D7FCF2D44D47A0006471B /* Assets.xcassets */,
@@ -377,6 +380,15 @@
 				E73D803F2D4791430006471B /* usersResponse.json */,
 			);
 			path = TestResources;
+			sourceTree = "<group>";
+		};
+		E78BDDDB2D59D714001EB945 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				E78BDDDD2D59D722001EB945 /* user_list.png */,
+				E78BDDDE2D59D72F001EB945 /* user_detail.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		E7A774062D51D516009BC075 /* Constants */ = {

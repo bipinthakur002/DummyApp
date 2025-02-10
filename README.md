@@ -28,5 +28,13 @@ DummyApp is an iOS application built using SwiftUI and follows CLEAN Architectur
 # 📦 Setup & Run
 ✅ Clone the Repository
 
-- git clone "https://pscode.lioncloud.net/bipthaku/dummyapp.git"
+- git clone "https://github.com/bipinthakur002/DummyApp.git"
 - cd DummyApp
+
+## 📷 Screenshots
+
+### 📌 User List Screen
+![User List](Screenshots/user_list.png)
+
+### 📌 User Detail Screen
+![User Detail](Screenshots/user_detail.png)
