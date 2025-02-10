@@ -31,10 +31,13 @@ DummyApp is an iOS application built using SwiftUI and follows CLEAN Architectur
 - git clone "https://github.com/bipinthakur002/DummyApp.git"
 - cd DummyApp
 
-## 📷 Screenshots
+## 📸 Screenshots
 
 ### 📌 User List Screen
-![User List](Screenshots/user_list.png)
+<img src="DummyApp/Screenshots/user_list.png" width="400">
 
 ### 📌 User Detail Screen
-![User Detail](Screenshots/user_detail.png)
+<img src="DummyApp/Screenshots/user_detail.png" width="400">
+
+### 🧪 Test Coverage 
+<img src="DummyApp/Screenshots/test_coverage.png" width="800">
